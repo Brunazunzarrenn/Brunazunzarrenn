@@ -1,4 +1,4 @@
-Eii, sou a Bruna Zunzarren!
+
 
 <div align="center">
   <a href="https://github.com/Bruna Zunzarren">
