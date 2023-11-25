@@ -9,8 +9,6 @@
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 Alumni Fellow in [Major League Hacking](https://fellowship.mlh.io/);
-- 🌱 Alumni [Google Summer of Code](https://summerofcode.withgoogle.com) Open-Source Developer with the [TensorFlow](https://www.tensorflow.org/) organization; 
 - 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Reinforcement Learning, etc..;
 - 💼 Sotfware Engineer;
 - 💬 Ask me about anything, I am happy to help;
