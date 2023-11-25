@@ -5,7 +5,18 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunaZunzarren&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaZunzarren&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  
+    <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
+**Talking about Personal Stuffs:**
+
+- 👨🏽‍💻 Alumni Fellow in [Major League Hacking](https://fellowship.mlh.io/);
+- 🌱 Alumni [Google Summer of Code](https://summerofcode.withgoogle.com) Open-Source Developer with the [TensorFlow](https://www.tensorflow.org/) organization; 
+- 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Reinforcement Learning, etc..;
+- 💼 Sotfware Engineer;
+- 💬 Ask me about anything, I am happy to help;
+- 📫 Please email via zunzarren2014@gmail.com to reach me.
+
+
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
